@@ -8,5 +8,9 @@ and system design documentation for a Consortia Management System.
 - User Stories
 - UI/UX Prototype (Figma)
 
-## Figma Design
-🔗 https://figma.com/xxxx](https://www.figma.com/file/XvF5f7RhoVbWzkUz1WM0MX/Untitled?type=design&node-id=12%3A3&mode=design&t=zsOkViykYft1MTdz-1
+## UI/UX Prototype
+
+Figma prototype used for UI design and validation:
+
+🔗 https://www.figma.com/design/XvF5f7RhoVbWzkUz1WM0MX/Untitled?node-id=0-1&p=f
+
